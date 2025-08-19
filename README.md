@@ -22,6 +22,8 @@ https://github.com/sendemina/Portfolio/assets/89432530/c1cb851e-325e-417e-8e3d-9
 
 ### Original artwork made in Krita
 
+![Image](https://github.com/user-attachments/assets/bc52e4f9-8da8-42b6-aadf-efbe85387c68)
+
 ![0819](https://github.com/sendemina/Portfolio/assets/89432530/886a65cf-907f-476b-8673-0bcfc77efc49)
 
 ![0605](https://github.com/sendemina/Portfolio/assets/89432530/29f1f836-36f6-463f-9c2a-370b85b75bb9)
