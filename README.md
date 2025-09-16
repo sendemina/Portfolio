@@ -1,5 +1,8 @@
 # Portfolio
 
+[My Projects Portfolio](https://github.com/sendemina/sen-portfolio)
+
+
 ### Original artwork made in Blender
 
 ![walking](https://github.com/sendemina/Portfolio/assets/89432530/b8d1b8b9-968c-4fba-bdad-a5b7cfbe980f)
