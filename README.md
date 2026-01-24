@@ -1,9 +1,13 @@
 # Portfolio
 
-[My Projects Portfolio](https://github.com/sendemina/sen-portfolio)
+[My Coding Projects Portfolio](https://github.com/sendemina/sen-portfolio)
 
 <img width="228" height="460" alt="Screenshot 2025-05-07 170202" src="https://github.com/user-attachments/assets/45e716af-9383-4edc-ab5e-f4f118378d84" />
 <img width="480" height="360" alt="old facctory" src="https://github.com/user-attachments/assets/fad3e091-60c9-491b-9f99-e9034447887e" />
+<img width="922" height="425" alt="image" src="https://github.com/user-attachments/assets/6a9b4d2a-cb82-4464-bfd7-86486933ec12" />
+<img width="640" height="320" alt="room" src="https://github.com/user-attachments/assets/5272b3ec-62a0-486b-8b1f-519171a9ff9f" />
+<img width="480" height="360" alt="landscapes_practice" src="https://github.com/user-attachments/assets/f371fe36-3112-4d38-a2ed-499af8c20974" />
+
 
 ### Original artwork made in Blender
 
