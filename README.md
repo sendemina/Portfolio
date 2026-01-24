@@ -3,6 +3,7 @@
 [My Projects Portfolio](https://github.com/sendemina/sen-portfolio)
 
 <img width="228" height="460" alt="Screenshot 2025-05-07 170202" src="https://github.com/user-attachments/assets/45e716af-9383-4edc-ab5e-f4f118378d84" />
+<img width="480" height="360" alt="old facctory" src="https://github.com/user-attachments/assets/fad3e091-60c9-491b-9f99-e9034447887e" />
 
 ### Original artwork made in Blender
 
