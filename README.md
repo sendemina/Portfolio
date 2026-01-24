@@ -2,14 +2,17 @@
 
 [My Coding Projects Portfolio](https://github.com/sendemina/sen-portfolio)
 
+### Original app design I created using Unity and Krita
 <img width="228" height="460" alt="Screenshot 2025-05-07 170202" src="https://github.com/user-attachments/assets/45e716af-9383-4edc-ab5e-f4f118378d84" />
+
+### Original artwork I made in Aseprite
 <img width="480" height="360" alt="old facctory" src="https://github.com/user-attachments/assets/fad3e091-60c9-491b-9f99-e9034447887e" />
 <img width="922" height="425" alt="image" src="https://github.com/user-attachments/assets/6a9b4d2a-cb82-4464-bfd7-86486933ec12" />
 <img width="640" height="320" alt="room" src="https://github.com/user-attachments/assets/5272b3ec-62a0-486b-8b1f-519171a9ff9f" />
 <img width="480" height="360" alt="landscapes_practice" src="https://github.com/user-attachments/assets/f371fe36-3112-4d38-a2ed-499af8c20974" />
 
 
-### Original artwork made in Blender
+### Original artwork I made in Blender
 
 ![walking](https://github.com/sendemina/Portfolio/assets/89432530/b8d1b8b9-968c-4fba-bdad-a5b7cfbe980f)
 
@@ -20,7 +23,7 @@ https://github.com/sendemina/Portfolio/assets/89432530/c1cb851e-325e-417e-8e3d-9
 ![switch](https://github.com/sendemina/Portfolio/assets/89432530/f012ceb4-4cda-4b45-8b65-96fe8966f29f)
 
 
-### Original animations made in Krita
+### Original animations I made in Krita
 
 ![archer](https://github.com/sendemina/Portfolio/assets/89432530/dc31b23d-e962-480b-bedc-3ee9e22cba86)
 
@@ -29,7 +32,7 @@ https://github.com/sendemina/Portfolio/assets/89432530/c1cb851e-325e-417e-8e3d-9
 ![0411](https://github.com/sendemina/Portfolio/assets/89432530/7af63265-e2b7-4f2a-94f2-32eb1db0c200)
 
 
-### Original artwork made in Krita
+### Original artwork I made in Krita
 
 ![Image](https://github.com/user-attachments/assets/bc52e4f9-8da8-42b6-aadf-efbe85387c68)
 
@@ -43,7 +46,7 @@ https://github.com/sendemina/Portfolio/assets/89432530/c1cb851e-325e-417e-8e3d-9
 
 
 
-### Studies made in Krita
+### Studies I made in Krita
 
 ![0914c](https://github.com/sendemina/Portfolio/assets/89432530/808c56f1-14df-449a-9f72-b8b492d1ca70)
 
