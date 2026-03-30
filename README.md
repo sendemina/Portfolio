@@ -10,6 +10,8 @@
 <img width="922" height="425" alt="image" src="https://github.com/user-attachments/assets/6a9b4d2a-cb82-4464-bfd7-86486933ec12" />
 <img width="640" height="320" alt="room" src="https://github.com/user-attachments/assets/5272b3ec-62a0-486b-8b1f-519171a9ff9f" />
 <img width="480" height="360" alt="landscapes_practice" src="https://github.com/user-attachments/assets/f371fe36-3112-4d38-a2ed-499af8c20974" />
+<img width="480" height="360" alt="sen_and_cats" src="https://github.com/user-attachments/assets/bf1cf5a6-e737-4fde-a55f-0e1de15fd4c0" />
+
 
 
 ### Original artwork I made in Blender
